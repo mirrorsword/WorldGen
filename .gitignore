@@ -1,6 +1,7 @@
 *.hip
 *.hiplc
 *.hipnc
+[Hh]oudini/
 
 # =============== #
 # Unity generated #
