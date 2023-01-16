@@ -1,2 +1,2 @@
-#WorldGen
-This is a hobby project for generating fantasy maps.
+# WorldGen
+ This is a hobby project for generating fantasy maps.
